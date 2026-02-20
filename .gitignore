@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+
+# Spring Boot
+target/
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# Zip files
+*.zip
